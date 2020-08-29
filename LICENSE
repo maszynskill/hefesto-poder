@@ -1,24 +1,167 @@
-This is free and unencumbered software released into the public domain.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+          h1{
+              background:rgb(120, 122, 222);
+          }
+          
+          h1{
+              color:rgb(255, 255, 255);
+          }
+              
+          h2{
+              color:rgb(120, 122, 222);
+          }      
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>worldwide Soup Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#macacosouprecipe">Recipe #1</a></li>
+          <li><a href="#pidgeonsouprecipe">Recipe#2</a></li>  
+             <li><a href="#batsouprecipe">Recipe#3</a></li>
+        </ol>
+        
+        <h2 id="macacosouprecipe">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 15 minutes</li>
+            <li>Serves: 3 persons </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td>Macaco</td>
+                  <td>A small macacinho</td>
+                  
+              </tr>
+              <tr>
+                  <td>Coriander</td>
+                  <td>50 grams</td>
+                  
+              </tr>
+              <tr>
+                  <td>Delicia</td>
+                  <td>Uma</td>
+                  
+              </tr>
+              <tr>
+                  <td>AngryBrazilian</td>
+                  <td>Big samba power</td>
+                  
+              </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+</p>
+        
+    <p><em>Source: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lula_-_foto_oficial_-_05_jan_2007_%28cropped_3%29.jpg/220px-Lula_-_foto_oficial_-_05_jan_2007_%28cropped_3%29.jpg">Some recipes websites</a></em></p>
+    
+    
+    
+    <h2 id="pidgeonsouprecipe">Recipe #2</h2>
+        
+        <ul>
+            <li>Time: 60 minutes</li>
+            <li>Serves: 3 persons </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td>Pidgeon</td>
+                  <td>3 units</td>
+                  
+              </tr>
+              <tr>
+                  <td>Coriander</td>
+                  <td>50 grams</td>
+                  
+              </tr>
+              <tr>
+                  <td>Total Total</td>
+                  <td>A pinch</td>
+                  
+              </tr>
+              <tr>
+                  <td>Paolo Guerrero</td>
+                  <td>A bit</td>
+                  
+              </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+</p>
+        
+    <p><em>Source: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lula_-_foto_oficial_-_05_jan_2007_%28cropped_3%29.jpg/220px-Lula_-_foto_oficial_-_05_jan_2007_%28cropped_3%29.jpg">Some recipes websites</a></em></p>
+    
+    
+    <h2 id="batsouprecipe">Recipe #3</h2>
+        
+        <ul>
+            <li>Time: 40 minutes</li>
+            <li>Serves: 3 persons </li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+              <tr>
+                  <td>Bat</td>
+                  <td>2 units</td>
+                  
+              </tr>
+              <tr>
+                  <td>Ginger</td>
+                  <td>20 grams</td>
+                  
+              </tr>
+              <tr>
+                  <td>Kung Fu</td>
+                  <td>Just as much as need it</td>
+                  
+              </tr>
+              <tr>
+                  <td>Mao Mao</td>
+                  <td>One picture</td>
+                  
+              </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+</p>
+        
+    <p><em>Source: <a href="https://i1.wp.com/wipy.tv/wp-content/uploads/2020/01/Robert-Pattinson-se-disculpo%CC%81-por-decir-que-Batman-no-es-Superhe%CC%81roe.jpg?fit=1000%2C600&ssl=1">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
